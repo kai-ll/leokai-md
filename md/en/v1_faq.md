@@ -1,27 +1,27 @@
 # FAQ
 ## StepPot Frequently Asked Questions
 
-StepPot is a free reward app where you can complete missions such as walking or watching ads to collect tickets and join the **Mega Lotto 6/45** draw held every Wednesday at 9:00 PM (GMT+8). Winners are determined based on the official lottery results.
+StepPot is a free reward app where you can complete missions such as walking or watching ads to collect entries and join the **Mega Lotto 6/45** draw held every Wednesday at 9:00 PM (GMT+8). Winners are determined based on the official results.
 
 ## 1. Service & Tickets
 **Q. Is StepPot a paid service?**  
 A. No, StepPot is completely free to use for everyone.
 
-**Q. How can I get tickets?**  
-A. You can earn tickets by completing various missions, such as reaching step goals or watching ads.
+**Q. How can I get entries?**  
+A. You can earn entries by completing various missions, such as reaching step goals or watching ads.
 
-**Q. How long are tickets valid?**  
-A. Tickets do not expire and can be used in any draw before the deadline for that round.
+**Q. How long are entries valid?**  
+A. Entries do not expire and can be used in any draw before the deadline for that round.
 
 **Q. How many times can I enter per day?**  
-A. As long as you have tickets, there is no limit to how many times you can enter.
+A. As long as you have entries, you can submit free entries without any limit.
 
-**Q. Are lottery numbers generated automatically?**  
+**Q. Are numbers generated automatically?**  
 A. You can either choose the numbers yourself or use the auto-generated suggestion.
 
-## 2. Draw & Winning
-**Q. When is the draw held?**  
-A. The draw takes place every Wednesday at 9:00 PM, based on the official Mega Lotto 6/45 results. 
+## 2. Event & Winning
+**Q. When is the event held?**  
+A. Every Wednesday at 9:00 PM, we reference the official Mega Lotto 6/45 results to determine the winners.
 **Numbers drawn on Monday and Friday are not used.**
 
 **Q. What is the entry period?**  
@@ -31,18 +31,20 @@ A. Entries are open from Thursday 12:00 PM until Wednesday 8:00 PM (GMT+8).
 A. You can check the results on the home screen or in the Results tab.
 
 **Q. What happens if there are multiple first-place winners?**  
-A. The prize will be divided equally. (e.g., If the prize is ₱40,000 and there are 2 winners, each will receive ₱20,000.)
+A. The reward will be divided equally. (e.g., If the reward is ₱40,000 and there are 2 winners, each will receive ₱20,000.)
 
 ## 3. Prize & Taxes
-**Q. How do I receive my prize?**  
-A. Prizes are given in cash, and winners will receive an e-mail with instructions on how to claim them.
+**Q. How do I receive my reward?**  
+A. Rewards are provided digitally (e.g., GCash/PayPal). Winners will receive an e-mail with instructions on how to claim them.
+No purchase is ever required to claim rewards.
 
-**Q. When will the prize be paid?**  
-A. Within 10 days after the official announcement of results.
+**Q. When will the reward be paid?**  
+A. Within 10 days after the official results are announced.
 
 **Q. Who is responsible for taxes?**  
-A. Winners are responsible for paying any applicable taxes. StepPot pays the full prize amount without deductions.
+A. Depending on your country, local tax regulations may apply.
 
 ## 4. Troubleshooting
 **Q. My steps are not being recorded. What should I do?**  
-A. Please check the settings and make sure you have granted permission to connect with your health app.
+A. Make sure you have granted Motion & Fitness / Health app permissions.
+StepPot does not store or share your health data.
