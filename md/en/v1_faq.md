@@ -1,7 +1,7 @@
 # FAQ
 ## StepPot Frequently Asked Questions
 
-StepPot is a free reward app where you can complete missions such as walking or watching ads to collect entries and join the **Mega Lotto 6/45** draw held every Wednesday at 9:00 PM (GMT+8). Winners are determined based on the official results.
+StepPot is a free reward app where you can complete missions such as walking or watching ads to collect entries and join the **Mega Lotto 6/45** event held every Wednesday at 9:00 PM (GMT+8). Winners are determined based on the official results.
 
 ## 1. Service & Tickets
 **Q. Is StepPot a paid service?**  
@@ -11,7 +11,7 @@ A. No, StepPot is completely free to use for everyone.
 A. You can earn entries by completing various missions, such as reaching step goals or watching ads.
 
 **Q. How long are entries valid?**  
-A. Entries do not expire and can be used in any draw before the deadline for that round.
+A. Entries do not expire and can be used in any event before the deadline for that round.
 
 **Q. How many times can I enter per day?**  
 A. As long as you have entries, you can submit free entries without any limit.
@@ -28,7 +28,7 @@ A. Every Wednesday at 9:00 PM, we reference the official Mega Lotto 6/45 results
 A. Entries are open from Thursday 12:00 PM until Wednesday 8:00 PM (GMT+8).
 
 **Q. Where can I check the results?**  
-A. You can check the results on the home screen or in the Results tab.
+A. You can check the winning results on the home screen or in the Results tab.
 
 **Q. What happens if there are multiple first-place winners?**  
 A. The reward will be divided equally. (e.g., If the reward is ₱40,000 and there are 2 winners, each will receive ₱20,000.)
