@@ -1,14 +1,14 @@
-# Entry, Draw & Reward Guide
+# Entry, Event & Reward Guide
 
 ## Entry Method
 * Complete daily missions to receive entries.
-* Entries open again after the results are announced. You can participate in the next round once the previous results have been released
+* Entries open again after the results are announced. You can participate in the next event round once the previous results have been released
 * Select your 6 numbers (or use auto-pick) to submit a free entry.
 
-## Draw Method
+## Event Method
 * Uses the official winning numbers from **Mega Lotto 6/45** on IBC-13 every **Wednesday** at 9:00 PM (GMT+8).  
 **Note:** Monday and Friday Mega Lotto 6/45 results are not used.
-* Once the winning numbers are uploaded to the [official website](https://www.pcso.gov.ph/), StepPot app results will be updated.
+* Once the winning numbers are uploaded to the [official website](https://www.pcso.gov.ph/), StepPot app event results will be updated.
 
 ## Reward Information
 |**Tier** |**Match Condition**  |**Reward**   |
@@ -31,7 +31,7 @@ Participation in the weekly event is completely free. No purchase or payment is 
 ### Eligibility
 The event is open to users who meet StepPot’s terms of service and local requirements.
 ### How to Enter
-Users can submit free entries by collecting tickets through missions such as walking or watching ads.
+Users can submit free entries by collecting entries through missions such as walking or watching ads.
 ### Entry Period
 Entries are accepted from Thursday 12:00 PM to Wednesday 8:00 PM (GMT+8).
 ### Determining Winners
