@@ -11,12 +11,15 @@
 * Once the winning numbers are uploaded to the [official website](https://www.pcso.gov.ph/), StepPot app event results will be updated.
 
 ## Reward Information
-|**Tier** |**Match Condition**  |**Reward**   |
-|:-------:|:-------------------:|:-----------:|
-| 1st     | 6 numbers match     | ₱40,000     |  
-| 2nd     | 5 numbers match     | 100 entries |
-| 3rd     | 4 numbers match     | 20 entries  |
-| 4th     | 3 numbers match     | 5 entries   |
+* Rewards are provided based on how many of your selected numbers match the official public results.
+* All rewards are digital rewards funded by advertising revenue, and no purchase or payment is ever required.
+
+|**Tier** |**Match Condition**     |**Reward**                               |
+|:-------:|:----------------------:|:---------------------------------------:|
+| 1st     | 6 numbers match        | Up to ₱40,000 equivalent digital reward |  
+| 2nd     | 5 numbers match        | 100 entries                             |
+| 3rd     | 4 numbers match        | 20 entries                              |
+| 4th     | 3 numbers match        | 5 entries                               |
 
 ## Claim Method
 * Rewards are divided equally among winners.  
@@ -25,25 +28,37 @@
 * 1st place winners are required to provide: Name (First, Middle, Last), phone number, address, email, and bank details  
 * Rewards will be deposited within 10 business days after information is submitted.
 
-## OFFICIAL RULES
+## StepPot Skill-Based Prediction Contest — OFFICIAL RULES
 ### No Purchase Necessary
-Participation in the weekly event is completely free. No purchase or payment is required to enter or win.
-### Eligibility
-The event is open to users who meet StepPot’s terms of service and local requirements.
+* Participation in this event is completely free. No purchase or payment is required to enter or win.
+* All entries are earned through free in-app missions such as walking or viewing optional ads.
+### Nature of the Contest (Skill-Based)
+* This event is a skill-based prediction contest. Users select their own numbers based on their own judgment, knowledge, experience, and prediction strategy.
+* StepPot does NOT conduct any random drawing or random winner selection. 
+* All outcomes are determined solely by the user’s chosen numbers and the official public results.
 ### How to Enter
-Users can submit free entries by collecting entries through missions such as walking or watching ads.
+* Users may submit free entries by collecting “Entries” through walking missions or optional ad rewards.
+* Entries cannot be purchased with money.
 ### Entry Period
-Entries are accepted from Thursday 12:00 PM to Wednesday 8:00 PM (GMT+8).
+* Entries are accepted from Thursday 12:00 PM to Wednesday 8:00 PM (GMT+8).
 ### Determining Winners
-Winners are determined based on the official Mega Lotto 6/45 results announced every Wednesday at 9:00 PM (GMT+8).
+* Winners are determined based entirely on whether the user’s self-selected numbers match the official public 6-number results announced every Wednesday at 9:00 PM (GMT+8).
+* The app does not generate results, does not randomize outcomes, and performs no drawing of any kind.
+* Matching is strictly deterministic based on user-selected numbers and publicly available results.
 ### Rewards
-Rewards are provided digitally (GCash/PayPal). Winners will receive instructions via email.
-Rewards are divided equally among winners if multiple top winners exist.
+* Rewards are provided digitally (e.g., GCash or PayPal).  
+* If multiple users achieve the same highest match level, the reward is divided equally among winners.
+* Rewards have no purchase requirement and are solely based on skillful prediction and number selection.
 ### Taxes
-Local tax regulations may apply depending on your region.
+* Local tax regulations may apply depending on the user's region. 
+* Winners are responsible for handling any applicable taxes.
 ### Operator
-This event is operated exclusively by StepPot (JKAI LLC).
+* This contest is operated exclusively by StepPot (JKAI LLC). 
+* No third-party or governmental lottery operator is involved in this contest.
+### Not a Lottery or Gambling Service
+* This event is not a lottery, gambling activity, raffle, or chance-based prize draw.
+* There is no randomization, no betting, and no monetary risk involved.
+* Prizes are awarded only through skillful prediction and matching against official public results.
 ### Apple Statement
-**Apple is not a sponsor or involved in any way with this event.**
-
-**This sweepstakes is operated solely by StepPot.**
+* Apple is not a sponsor or involved in any way with this contest or reward distribution.
+* Apple provides no endorsement, support, or participation in the contest mechanics.
