@@ -59,6 +59,6 @@
 * This event is not a lottery, gambling activity, raffle, or chance-based prize draw.
 * There is no randomization, no betting, and no monetary risk involved.
 * Prizes are awarded only through skillful prediction and matching against official public results.
-### Apple Statement
-* Apple is not a sponsor or involved in any way with this contest or reward distribution.
-* Apple provides no endorsement, support, or participation in the contest mechanics.
+### Platform Disclaimer
+* Apple and Google are not sponsors and are not involved in any way with this contest or reward distribution.
+* They provide no endorsement, support, or participation in the contest mechanics.
