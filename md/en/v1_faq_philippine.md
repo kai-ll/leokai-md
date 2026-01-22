@@ -1,4 +1,4 @@
-# FAQ
+# FAQ - Mega Lotto 6/45
 ## StepPot Frequently Asked Questions
 * StepPot is a free reward app where you can complete missions such as walking or watching ads to collect entries.
 * No purchase or payment is ever required.
