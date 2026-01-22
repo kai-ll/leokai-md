@@ -1,46 +1,45 @@
-# StepPot Skill-Based Prediction Contest — OFFICIAL RULES
-## No Purchase Necessary
-* Participation in these events is completely free. No purchase or payment is required to enter or win.
-* All entries are earned through free in-app missions such as walking or viewing optional ads.
+# StepPot 공식 규정 (OFFICIAL RULES) - 실력 기반 예측 콘테스트
+## 구매 불필요 (No Purchase Necessary)
+* 본 이벤트 참여는 완전히 무료이며, 응모 또는 당첨을 위해 어떠한 구매나 결제도 필요하지 않습니다.  
+* 모든 응모권은 걷기 미션 수행 또는 선택적 광고 시청과 같은 무료 인앱 활동을 통해 획득됩니다.  
 
-## Nature of the Contest (Skill-Based)
-* These events are skill-based prediction contests. Users select their own numbers based on their own judgment, knowledge, experience, and prediction strategy.
-* StepPot does NOT conduct any random drawing or random winner selection.
-* All outcomes are determined solely by the user’s chosen numbers and the official public results.
+## 콘테스트의 성격 (실력 기반)
+* 본 이벤트는 실력 기반 예측 콘테스트입니다. 사용자는 자신의 판단, 지식, 경험 및 예측 전략에 따라 직접 번호를 선택합니다.  
+* StepPot은 무작위 추첨 또는 무작위 당첨자 선정을 일절 수행하지 않습니다.
+* 모든 결과는 사용자가 선택한 번호와 공식적으로 공개된 결과에 의해서만 결정됩니다.  
 
-## How to Enter
-* Users may submit free entries by collecting “Entries” through walking missions or optional ad rewards.
-* Entries cannot be purchased with money.
+## 참여 방법 (How to Enter)
+* 사용자는 걷기 미션 수행 또는 선택적 광고 보상을 통해 응모권(Entries)을 획득하여 무료로 응모할 수 있습니다.  
+* 응모권은 금전으로 구매할 수 없습니다.  
 
-## Entry Period
-* Entries are accepted during the entry period specified for each event.
-* The entry period closes before the official draw time for the applicable event.
-* Please refer to each event’s guide or FAQ for detailed entry schedules.
+## 응모 기간 (Entry Period)
+* 응모는 각 이벤트별로 지정된 응모 기간 내에만 가능합니다.  
+* 응모 기간은 해당 이벤트의 공식 발표 시간 이전에 종료됩니다.  
+* 자세한 일정은 각 이벤트의 안내 페이지 또는 FAQ를 참고해 주세요.  
 
-## Determining Winners
-* Winners are determined solely based on whether the user’s self-selected numbers exactly match the official publicly available results for the applicable event.
-* The app does not generate results, does not randomize outcomes, and performs no random selection of winners.
-* Matching is strictly deterministic based on user-selected numbers and publicly available results.
+## 당첨자 결정 방식 (Determining Winners)
+* 당첨자는 사용자가 선택한 번호가 해당 이벤트의 공식 공개 결과와 정확히 일치하는지 여부에 따라 결정됩니다.  
+* 본 앱은 결과를 생성하지 않으며, 결과를 무작위로 변경하거나 당첨자를 무작위로 선정하지 않습니다.  
+* 모든 판정은 사용자 선택 번호와 공개된 공식 결과에 기반한 결정론적 방식으로 이루어집니다.  
 
-## Rewards 
-* Rewards are provided digitally (e.g., GCash or PayPal).
-* If multiple users achieve the same highest match level, the reward is divided equally among winners.
-* Reward amounts and structures may vary by event and are described in each event’s guide.
-* Rewards have no purchase requirement and are solely based on skillful prediction and number selection.
+## 보상 (Rewards)
+* 보상은 디지털 방식(예: GCash, PayPal)으로 지급됩니다.  
+* 같은 등수의 당첨자가 여러 명일 경우, 보상은 균등 분배됩니다.  
+* 보상 금액 및 구조는 이벤트별로 다를 수 있으며, 각 이벤트 안내에 명시됩니다.  
+* 보상은 구매와 무관하며, 순수한 실력 기반 예측 및 번호 선택 결과에 따라 지급됩니다.  
 
-## Taxes
-* Local tax regulations may apply depending on the user's region.
-* Winners are responsible for handling any applicable taxes.
+## 세금 (Taxes)
+* 사용자의 거주 지역에 따라 현지 세법이 적용될 수 있습니다.  
+* 관련 세금은 당첨자 본인이 직접 부담합니다.  
 
-## Operator
-* This contest is operated exclusively by StepPot (JKAI LLC).
-* No third-party or governmental lottery operator is involved in this contest.
+## 운영 주체 (Operator)
+* 본 콘테스트는 StepPot (JKAI LLC.)에서 단독으로 운영합니다.
+* 어떠한 제3자 또는 정부 복권 운영 기관도 본 콘테스트에 관여하지 않습니다.  
 
-## Not a Lottery or Gambling Service
-* These events are not a lottery, gambling activity, raffle, or chance-based prize draw.
-* There is no randomization, no betting, and no monetary risk involved.
-* Prizes are awarded only through skillful prediction and matching against official public results.
-
-## Platform Disclaimer
-* Apple and Google are not sponsors of, and are not involved in, these contests or reward distribution.
-* They provide no endorsement, support, or participation in the contest mechanics.
+## 복권 또는 도박 서비스 아님 (Not a Lottery or Gambling Service)
+* 본 이벤트는 복권, 도박, 추첨, 또는 확률 기반 경품 행사가 아닙니다.  
+* 무작위 요소, 베팅, 금전적 위험은 존재하지 않습니다.  
+* 모든 보상은 사용자의 실력 기반 예측과 공식 공개 결과와의 일치 여부에 따라 지급됩니다.  
+## 플랫폼 고지 사항 (Platform Disclaimer)
+* Apple 및 Google은 본 콘테스트 또는 보상 지급의 후원사나 운영자가 아닙니다.  
+* 해당 플랫폼은 본 콘테스트의 운영 방식, 보상 구조 또는 결과에 대해 어떠한 보증·지원·관여도 하지 않습니다.  
