@@ -24,7 +24,7 @@ A. You can either choose the numbers yourself or use the auto-generated suggesti
 ## 2. Event & Winning
 **Q. When is the event held?**  
 A. Every Wednesday at 9:00 PM (GMT+8). The results are based on publicly announced Mega Lotto 6/45 numbers.  
-**Monday and Friday Mega Lotto 6/45 results are not used.**
+**Note:** Monday and Friday Mega Lotto 6/45 results are not used.
 
 **Q. What is the entry period?**  
 A. Entries close 1 hour before the official draw time. New entries open again once the draw results have been confirmed and updated in the app.  
